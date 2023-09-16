@@ -24,6 +24,8 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexanderLeonidasGuenzel" alt="AlexanderLeonidasGuenzel" /></a>
+
 
 <!--
 **AlexanderLeonidasGuenzel/AlexanderLeonidasGuenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
