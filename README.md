@@ -31,6 +31,9 @@ My name is Alexander and I'm a junior fullstack developer.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-leonidas-g-210164279)
 [![Xing](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/MrAlexanderLeonidas_Guenzel/cv)  
 
+![Snake animation](https://github.com/AlexanderLeonidasGuenzel/AlexanderLeonidasGuenzel/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **AlexanderLeonidasGuenzel/AlexanderLeonidasGuenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
