@@ -19,6 +19,13 @@ My name is Alexander and I'm a junior fullstack developer.
 
   <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=AlexanderLeonidasGuenzel" alt="AlexanderLeonidasGuenzel" /></a>
 
+## Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderLeonidasGuenzel/AlexanderLeonidasGuenzel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexanderLeonidasGuenzel/AlexanderLeonidasGuenzel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexanderLeonidasGuenzel/AlexanderLeonidasGuenzel/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-leonidas-g-210164279)
