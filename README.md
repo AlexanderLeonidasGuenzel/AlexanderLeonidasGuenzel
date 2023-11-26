@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile! （*＾-＾*）
+# Welcome to my GitHub profile! 
 My name is Alexander and I'm a junior fullstack developer. 
 
 ## Tech Stack 
