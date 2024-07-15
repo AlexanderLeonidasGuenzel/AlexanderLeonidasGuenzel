@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile! 
-My name is Alexander and I'm a junior fullstack developer. 
+My name is Alexander and I'm a fullstack developer. 
 
 ## Tech Stack 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
