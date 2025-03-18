@@ -1,11 +1,10 @@
-# 👋 Welcome! 
+# 👋 Welcome friends of the night! 🌛 
 
-<h3 align="left">I'm Alexander, a fullstack developer from Germany and I have studied computer science and electrical engineering, which gave me a strong foundation in both the tech and engineering fields.</h3> 
+<h3>I'm Alexander, a fullstack developer from Germany and I have studied computer science and electrical engineering, which gave me a strong foundation in both the tech and engineering fields.</h3> 
+<p>Over the years, I have been working with a variety of programming languages, tech stacks, and tools. </p>
+<p>Sometimes I take part in online hackathons, to meet new people, learn from each other and build awesome projects within a limited time.</p>
+<p>In my free time, I enjoy playing board 🎲 & card 🃏 games, also video games on PC 💻 and Nintendo Switch 🎮</p>
 <br>
-<div><p>Over the years, I have been working with a variety of programming languages, tech stacks, and tools. </p></div>
-
-
-
 <h3 align="center">Most used IDE / Editor:</h3>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
