@@ -1,4 +1,4 @@
-# 👋 Welcome friends of the night! 🌛 
+# 👋 Welcome, ... friends of the night! 🌛 
 
 <h3>I'm Alexander, a fullstack developer from Germany and I have studied computer science and electrical engineering, which gave me a strong foundation in both the tech and engineering fields.</h3> 
 <p>Over the years, I have been working with a variety of programming languages, tech stacks, and tools. </p>
