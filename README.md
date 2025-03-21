@@ -54,8 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
 
   <h4>Other Languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -74,7 +72,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
-</div>
+
+  <h4 align="center">Weiteres</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
 
 ## Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=AlexanderLeonidasGuenzel" alt="AlexanderLeonidasGuenzel" /></a>
