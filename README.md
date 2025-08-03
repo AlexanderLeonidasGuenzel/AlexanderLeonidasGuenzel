@@ -86,7 +86,8 @@
 
 
 ## Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=AlexanderLeonidasGuenzel" alt="AlexanderLeonidasGuenzel" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexanderLeonidasGuenzel&theme=oldie&column=3&margin-w=10&margin-h=10&no-bg=true&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Snake
 <picture>
